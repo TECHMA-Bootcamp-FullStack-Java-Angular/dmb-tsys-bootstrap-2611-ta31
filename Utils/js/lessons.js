@@ -28,7 +28,7 @@ export const lessons = [
         description: `./Utils/assets/Ej3.png`,
         urlCode:
           'hhttps://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-bootstrap-2611-ta31/tree/main/Ejercicio_03',
-        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/Ejercicio_02/index.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/Ejercicio_03/index.html',
       },
       {
         numExercise: 4,
@@ -36,7 +36,7 @@ export const lessons = [
         description: `./Utils/assets/Ej4.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-bootstrap-2611-ta31/tree/main/Ejercicio_04',
-        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/Ejercicio_02/index.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/Ejercicio_04/index.html',
       },
       {
         numExercise: 5,
@@ -44,7 +44,7 @@ export const lessons = [
         description: `./Utils/assets/Ej5.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-bootstrap-2611-ta31/tree/main/Ejercicio_05',
-        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/Ejercicio_02/index.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/Ejercicio_04/index.html',
       },
       {
         numExercise: 6,
@@ -52,7 +52,7 @@ export const lessons = [
         description: `./Utils/assets/Ej6.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-bootstrap-2611-ta31/tree/main/Ejercicio_06',
-        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/Ejercicio_02/index.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/Ejercicio_06/index.html',
       },
       {
         numExercise: 7,
@@ -60,7 +60,7 @@ export const lessons = [
         description: `./Utils/assets/Ej7.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-bootstrap-2611-ta31/tree/main/Ejercicio_07',
-        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/Ejercicio_02/index.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/Ejercicio_07/index.html',
       },
       {
         numExercise: 8,
@@ -68,7 +68,7 @@ export const lessons = [
         description: `./Utils/assets/Ej8.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-bootstrap-2611-ta31/tree/main/Ejercicio_08',
-        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/Ejercicio_02/index.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/Ejercicio_08/index.html',
       },
 
     ],

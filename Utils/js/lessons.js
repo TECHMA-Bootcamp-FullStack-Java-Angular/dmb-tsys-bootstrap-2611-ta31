@@ -44,7 +44,7 @@ export const lessons = [
         description: `./Utils/assets/Ej5.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-bootstrap-2611-ta31/tree/main/Ejercicio_05',
-        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/Ejercicio_04/index.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/Ejercicio_05/index.html',
       },
       {
         numExercise: 6,

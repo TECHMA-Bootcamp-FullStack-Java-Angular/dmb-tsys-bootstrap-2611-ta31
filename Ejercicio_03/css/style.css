@@ -1,0 +1,119 @@
+/* Cuerpo */
+body {
+  background-color: rgb(215, 219, 219) !important;
+}
+
+/* Barra de navegación */
+.navbar {
+  height: 60px !important; /* Altura de la barra de navegación */
+  line-height: 40px;
+}
+
+/* Parte superior de la barra de navegación */
+.navbar-top {
+  background-color: #fff !important; /* Color de fondo de la parte superior de la barra de navegación */
+  border-radius: 5px;
+}
+
+/* Navegación al desplazarse */
+.navbar-nav-scroll {
+  max-height: 60px !important; /* Altura máxima de la barra de navegación al desplazarse */
+}
+
+/* Barra inferior */
+.bottom-bar {
+  background-color: #2980b9; /* Color de fondo de la barra inferior */
+  border-radius: 0px 0px 7px 7px;
+}
+
+/* Elemento de navegación */
+.nav-item {
+  border-left: 1px solid #2b6d98; /* Borde izquierdo del elemento de navegación */
+}
+
+/* Iconos sociales */
+.social {
+  margin-inline: 25px;
+  & .nav-item {
+    border: none;
+    font-size: 26px;
+    padding: 0px;
+  }
+}
+
+/* Iconos de perfil */
+.profile {
+  font-size: 26px;
+  background-color: #2572a4;
+}
+
+/* Enlace de navegación */
+.nav-link {
+  padding-inline: 15px !important; /* Relleno horizontal del enlace de navegación */
+}
+
+/* Enlace del elemento de navegación */
+.nav-item {
+  & a {
+    height: 60px;
+    display: table-cell;
+    vertical-align: middle;
+    max-height: 60px !important;
+    color: #fff;
+  }
+}
+
+/* Icono de menú */
+.menu-icon {
+  background-color: #2572a4;
+  height: 60px !important;
+  & .nav-link {
+    padding: 0px !important;
+    color: #fff;
+  }
+}
+
+/* Menú desplegable */
+.dropdown-menu {
+  background-color: #434a54 !important;
+  color: #fff !important;
+  & li {
+    position: relative;
+  }
+  & li:hover {
+    & .dropdown-submenu {
+      display: block;
+    }
+  }
+}
+
+/* Elemento del menú desplegable */
+.dropdown-item {
+  color: #fff !important;
+  padding-right: 50px !important;
+}
+
+.dropdown-submenu {
+  display: none;
+  position: absolute;
+  left: 100%;
+  top: -10px;
+}
+
+.search-form {
+  & .search {
+    width: 42px;
+    border-radius: 0px 10px 10px 0px !important;
+  }
+}
+
+/* Control de formulario */
+.form-control {
+  border-radius: 10px 0px 0px 10px !important;
+}
+
+@media only screen and (min-width: 1400px) {
+  .social-name {
+    display: none;
+  }
+}

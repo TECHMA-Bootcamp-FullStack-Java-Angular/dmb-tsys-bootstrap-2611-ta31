@@ -1,0 +1,12 @@
+:root{
+    --fondo: #eeeeee;
+}
+
+.banner-principal {
+    background-color: var(--fondo);
+}
+
+
+.div-img {
+    background-color: var(--fondo);
+}

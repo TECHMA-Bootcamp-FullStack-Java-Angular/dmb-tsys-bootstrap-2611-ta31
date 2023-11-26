@@ -1,0 +1,49 @@
+body {
+  background-color: #4db7acd0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+#accumulated {
+  font-size: 30px;
+  height: 50%;
+  transition: all 0.3s;
+  border: none;
+  text-align: right;
+  background-color: #ffffff;
+}
+
+#eval {
+  height: 50%;
+  font-size: 45px;
+  transition: all 0.3s;
+  border: none;
+  text-align: right; 
+  background-color: #ffffff;
+}
+
+.btn {
+  width: 100%;
+  border-radius: 0;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.btn:hover{
+  font-size: 2.4rem;
+  color: rgb(224, 150, 52);
+}
+
+.botonera-num {
+  flex-wrap: wrap;
+}
+
+
+.oper:hover {
+    background-color: #328a81;
+}
+

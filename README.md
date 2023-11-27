@@ -14,8 +14,7 @@ This repository contains the Bootcamp tasksp 👨‍💻
 
 - Run the clone repository in your terminal:
 
-``git clone https://github.com/d-maza/dmb-tsys-bootstrap-2611-ta31``
-
+``git clone https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-bootstrap-2611-ta31.git``
 
 - Access the folder with the command:
 

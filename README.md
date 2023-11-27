@@ -6,9 +6,9 @@
 
 # UD31 – Bootstrap
 
-Este repositorio contiene las tareas del Bootcamp 👨‍💻
+This repository contains the Bootcamp tasksp 👨‍💻
 
-[Ver ejercicio ](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/)  
+[Click here to see the exercises ](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-bootstrap-2611-ta31/)  
 
 ### Rules of use 🚀
 
